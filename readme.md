@@ -1,4 +1,4 @@
-#h3 Boards Game
+# Boards Game
 
 Still yet to be decided title and genre!
 
